@@ -1,0 +1,5 @@
+it should contain Name,phone number, customer id etc.
+ Customer 1:
+name:abc
+number:123456
+id:abc@gmail.com
